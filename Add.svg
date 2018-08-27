@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Add</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="ReNest-Copy-16" transform="translate(-658.000000, -224.000000)" stroke="#32315C" stroke-width="3">
+            <g id="1" transform="translate(19.000000, 192.000000)">
+                <g id="Rectangle-2">
+                    <g id="Add" transform="translate(641.000000, 34.000000)">
+                        <path d="M21.5,0 L21.5,42" id="line"></path>
+                        <path d="M0,21.5 L42,21.5" id="line"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

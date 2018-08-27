@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="34px" viewBox="0 0 42 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Menu@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.503509964" stroke-linecap="square">
+        <g id="ReNest-Copy-14" transform="translate(-29.000000, -66.000000)" stroke="#32315C" stroke-width="2">
+            <g id="navbar" transform="translate(30.000000, 58.000000)">
+                <g id="Menu" transform="translate(0.000000, 8.000000)">
+                    <path d="M0,1 L40,1" id="line"></path>
+                    <path d="M0,17 L30,17" id="line"></path>
+                    <path d="M0,33 L40,33" id="line"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

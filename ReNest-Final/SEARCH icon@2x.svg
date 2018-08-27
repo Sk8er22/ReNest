@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="27px" viewBox="0 0 28 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>SEARCH icon@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="ReNest-Copy-15" transform="translate(-62.000000, -68.000000)" stroke="#1D1D26" stroke-width="2">
+            <g id="SEARCH" transform="translate(19.000000, 43.000000)">
+                <g id="SEARCH-icon" transform="translate(56.500000, 38.000000) scale(-1, 1) translate(-56.500000, -38.000000) translate(43.000000, 25.000000)">
+                    <ellipse id="oval" cx="14.5955772" cy="11.6859911" rx="10.6764618" ry="10.6859911"></ellipse>
+                    <path d="M6.13014243,20.1317756 L0.394990574,25.3498051" id="line" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
