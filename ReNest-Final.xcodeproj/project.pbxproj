@@ -93,7 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				57F23E872133E82200E6B218 /* Resources */,
-				577A978D2133B036007D8A86 /* Classes */,
+				577A978D2133B036007D8A86 /* Models */,
 				577A976F2130C1DF007D8A86 /* ViewControllers */,
 				577A976C2130C0ED007D8A86 /* Custom */,
 				577A97672130B4C0007D8A86 /* Utils - Extensions */,
@@ -153,12 +153,12 @@
 			path = Cells;
 			sourceTree = "<group>";
 		};
-		577A978D2133B036007D8A86 /* Classes */ = {
+		577A978D2133B036007D8A86 /* Models */ = {
 			isa = PBXGroup;
 			children = (
 				577A978E2133B062007D8A86 /* Tasks.swift */,
 			);
-			path = Classes;
+			path = Models;
 			sourceTree = "<group>";
 		};
 		57F23E872133E82200E6B218 /* Resources */ = {

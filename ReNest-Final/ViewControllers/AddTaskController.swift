@@ -8,13 +8,6 @@
 
 import UIKit
 
-struct cellData{
-    var opened = Bool()
-    var title = String()
-    var sectionData = [String]()
-}
-
-
 class AddTaskController: UIViewController, UITableViewDataSource, UITableViewDelegate {
     var number = 1
     var tableViewData = [cellData]()
